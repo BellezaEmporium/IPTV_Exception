@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000,CODECS="avc1.42e00a,mp4a.40.2"
+https://us.gbnus.com/live/dhamma_high/playlist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000,CODECS="avc1.42e00a,mp4a.40.2"
+https://us.gbnus.com/live/dhamma_low/playlist.m3u8
