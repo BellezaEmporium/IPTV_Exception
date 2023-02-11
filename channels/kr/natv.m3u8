@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1116401,CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=1280x720
+https://m.webcast.go.kr/live/smil:natv_720p.smil/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1116401,CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=854x480
+https://m.webcast.go.kr/live/smil:natv_480p.smil/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=873570,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=426x240
+https://m.webcast.go.kr/live/natv/playlist.m3u8
